@@ -1,1 +1,0 @@
-assignment_name: "assignment1" template_repo: "your-org/template-assignment1" org: "your-org" # where the per-student repos will be created deadline: "2025-04-15T23:59:59Z" private: true

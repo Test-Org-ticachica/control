@@ -1,0 +1,4 @@
+assignment_name: "assignment1" template_repo: "Test-Org-ticachica/assignment1" org: "Test-Org-ticachica" 
+# where the per-student repos will be created 
+deadline: "2025-07-15T23:59:59Z" 
+private: true
